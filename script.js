@@ -14,7 +14,7 @@ const P = {
   phone: "+919380656081",
   summary: "Full Stack Developer and AI Engineer who builds scalable web apps and practical machine learning tools. Open to internships, freelance projects and collaborations.",
   socials: {
-    linkedin: "https://www.linkedin.com/in/ranat-kumar-bayee",
+    linkedin: "https://www.linkedin.com/in/RANATKUMARBAYEE",
     github: "https://github.com/ranatbayee-collab",
     whatsapp: "https://wa.me/+919380656081"
   },
